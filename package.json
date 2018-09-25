@@ -1,0 +1,19 @@
+{
+  "name": "gatherer-mongoose",
+  "version": "0.0.1",
+  "description": "Mongoose module for Gatherer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loanid/npm-gatherer-mongoose.git"
+  },
+  "author": "loanid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loanid/npm-gatherer-mongoose/issues"
+  },
+  "homepage": "https://github.com/Loanid/npm-gatherer-mongoose#readme"
+}
